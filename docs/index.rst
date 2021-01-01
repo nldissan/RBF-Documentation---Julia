@@ -5,7 +5,17 @@
 
 Welcome to Read the Docs Template's documentation!
 ==================================================
+Welcome to Test-RBF2 documentation!
+====================================
 
+Another simple header
+=====================
+
+Here is some text.::
+
+  print'hello'
+  >>hello 
+  
 Contents:
 
 .. toctree::
