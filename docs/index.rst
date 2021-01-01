@@ -6,7 +6,7 @@
 The Radial Basis Function Method (RBF) in Julia documentation
 ==================================================
 
-Another simple header
+Introduction
 =====================
 
 Here is some text.::
