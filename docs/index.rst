@@ -16,11 +16,9 @@ Here is some text.::
   print'hello'
   >>hello 
   
-Contents:
-
 .. toctree::
    :maxdepth: 2
-   :glob:
+   :caption: Contents:
 
    *
 
