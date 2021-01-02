@@ -24,10 +24,10 @@ The purpose of this documentation is to share the RBF method codes written in Ju
 
 
 
-Indices and tables
-==================
+..Indices and tables
+..==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+..* :ref:`genindex`
+..* :ref:`modindex`
+..* :ref:`search`
 
