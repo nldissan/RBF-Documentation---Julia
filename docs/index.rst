@@ -20,9 +20,6 @@ The purpose of this documentation is to share the RBF method codes written in Ju
    :maxdepth: 2
    :caption: Contents:
 
-   *
-
-
 Indices and tables
 ==================
 
