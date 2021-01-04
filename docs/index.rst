@@ -15,7 +15,9 @@ The purpose of this documentation is to share the RBF method codes written in Ju
 
   print'hello'
   >>hello 
-  
+
+Guide
+^^^^^  
 .. toctree::
    :maxdepth: 2
    
