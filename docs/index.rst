@@ -13,8 +13,11 @@ The purpose of this documentation is to share the RBF method codes written in Ju
 
 * `Install Julia <https://julialang.org/downloads/>`_
 
+.. code-block:: julia
+  :linenos:
+
   print 'hello'
-  >>hello 
+  >> hello 
 
 Guide
 ^^^^^  
